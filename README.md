@@ -4,7 +4,7 @@ A modern, full-stack translation web application built with React, TypeScript, a
 
 ![Tech Stack](https://img.shields.io/badge/Frontend-React_19_·_TypeScript_·_Tailwind_CSS_·_Vite-3178C6?logo=react)
 ![Tech Stack](https://img.shields.io/badge/Backend-Python_·_Flask_·_Pydantic-3776AB?logo=python)
-![Build](https://img.shields.io/github/actions/workflow/status/your-username/language-translation-tool/ci.yml?branch=main&label=CI)
+![Build](https://img.shields.io/github/actions/workflow/status/KshitijMittal/language-translation-tool/ci.yml?branch=main&label=CI)
 
 ---
 
